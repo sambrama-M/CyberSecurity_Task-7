@@ -14,7 +14,7 @@
 5.Add an Extentions from the Chrome web store.
 
 
---> Impact of Suspicious Chrome Extensions :S
+--> Impact of Suspicious Chrome Extensions :
 
 Installing suspicious or malicious Chrome extensions can pose significant risks to your privacy, security, and overall system performance. Below are some of the key impacts:
 
