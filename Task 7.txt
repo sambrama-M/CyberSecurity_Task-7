@@ -1,0 +1,48 @@
+									Task 7 : Identify and remove suspicious Browser Extentions
+
+
+-> OBJECTIVE    : Learn to spot and remove ptentially harmfull browser extentions.
+-> TOOLS        : Any web browser (Chrome, Firefox)
+
+
+--> STEPS TO IDENTIFY SUSPICIOUS EXTENTIONS :
+
+1.On your computer, open Chrome.
+2.At the top right, select More > Extensions > Manage Extentions.
+3.Find the unsupported extentions.
+4.select Details > More > Find Alternatives.
+5.Add an Extentions from the Chrome web store.
+
+
+--> Impact of Suspicious Chrome Extensions :S
+
+Installing suspicious or malicious Chrome extensions can pose significant risks to your privacy, security, and overall system performance. Below are some of the key impacts:
+
+1. Privacy Breaches:
+                   Malicious extensions can monitor your browsing activity, including search queries, websites visited, and online behavior. Some may also access and exfiltrate sensitive information such as login credentials, emails, and form inputs.
+
+2. Data Theft:
+             Extensions with broad permissions may intercept sensitive data, including usernames, passwords, payment information, and other confidential details. This data can be misused or sold on the dark web.
+
+3. Unwanted Content and Redirects:
+                                 Some extensions inject advertisements, pop-ups, or banners into websites. Others may redirect you to phishing or malicious sites, often impersonating legitimate pages to steal information.
+
+4. Performance Degradation:
+                          Suspicious extensions may consume excessive system resources, leading to slower browser performance, frequent crashes, or freezes. This can significantly affect productivity and user experience.
+
+5. Malware Delivery:
+                    Certain extensions can act as a vector for delivering malware, such as spyware, ransomware, or keyloggers. These threats can compromise your system, data, and network security.
+
+6. Unauthorized Account Access:
+                              If an extension gains access to browser sessions, it can impersonate the user and perform unauthorized actions, including sending messages, posting content, or altering settings within web applications.
+
+--> Best Practices for Safety
+
+1.Install extensions only from reputable developers and sources.
+
+2.Review extension permissions before installation.
+
+3.Regularly audit and remove unused or unfamiliar extensions.
+
+4.Use security tools and browser settings to limit or monitor extension behavior.
+
